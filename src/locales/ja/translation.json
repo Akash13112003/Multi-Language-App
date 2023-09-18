@@ -1,0 +1,12 @@
+{
+    "language": "言語",
+    "language.en": "英語",
+    "language.hi": "ヒンディー語",
+    "language.ja": "日本語",
+    "language.zh": "中国語",
+    "language.ar": "アラビア語",
+    "home.title": "ホームページへようこそ",
+    "home.content": "これはホームページのコンテンツです。",
+    "about.title": "当社について",
+    "about.content": "これは当社についてのコンテンツです。"
+}

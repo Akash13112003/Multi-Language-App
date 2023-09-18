@@ -1,0 +1,12 @@
+{
+    "language": "语言",
+    "language.en": "英文",
+    "language.hi": "印地语",
+    "language.ja": "日语",
+    "language.zh": "中文",
+    "language.ar": "阿拉伯语",
+    "home.title": "欢迎来到主页",
+    "home.content": "这是主页的内容。",
+    "about.title": "关于我们",
+    "about.content": "这是关于我们的内容。"
+}
